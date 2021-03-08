@@ -7,10 +7,7 @@
 ## Results
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
-
-### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+![PyBer Multiple Line Chart](pyber_challenge.png.png)
 
 ### Challenges and Difficulties Encountered
 At one point in my analysis I created a table that contained descriptive statistics of the goal and pledged amounts. When I first organized the data, I created a pivot table. When I created the pivot table, I ended up with the incorrect mean, median, standard deviation, upper quartile, lower quartile, and IQR for the goal and pledged amounts. I found it was simpler and faster to incorporate two filters the kickstarter sheet. Furthermore, the result of using filters instead of a pviot table was the correct mean, median, standard deviation, upper quartile, lower quartile, and IQR for the goal and pledged amounts. In conclusion, I needed to keep my process simple, and I am more comfortable with filters than pivot charts.
