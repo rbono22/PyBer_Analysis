@@ -9,6 +9,7 @@ The purpose of this project is to provide data visualization techniques to give 
 
 ### Images for Reference
 ![PyBer Multiple Line Chart](pyber_challenge.png)
+![PyBer Multiple Line Chart](analysis/pyber_challenge.png)
 
 ### Data Description
 
